@@ -1,0 +1,7 @@
+exchangerate-api.com
+
+status codes:
+	- 200  range: ok, 201: write on server
+	- 300 range: redirect
+	- 400 range: user error
+	- 500 range: server error
