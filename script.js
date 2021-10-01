@@ -22,8 +22,6 @@ function calculate() {
 
       amountEl_two.value = Math.floor(amount_one * rate);
     });
-
-  console.log(currency_one, currency_two);
 }
 
 function swapCurrency() {
